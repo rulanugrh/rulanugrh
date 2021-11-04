@@ -9,5 +9,6 @@
 - 👯 Interested in the python programming language 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+![Kiyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyxzy&theme=outrun&show_icons=true)
 
 
