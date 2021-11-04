@@ -1,4 +1,5 @@
 <h1 align="center">Hey, I'm Kiyotaka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<img align='center' src='https://giffiles.alphacoders.com/349/34948.gif' width='75px'>
 
 ## About Me
 - 🎓 Student Of SMKN 22 Jakarta 
