@@ -9,8 +9,12 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
-## My Stats
+## Github Stats
 ![Kiyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyxzy&theme=tokyonight&show_icons=true)
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+
+## Streak Stats
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kyxzy&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
 
 
