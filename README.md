@@ -12,6 +12,6 @@
 
 
 ![Kiyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyxzy&theme=outrun&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kyxzy)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kyxzy)]
 
 
