@@ -14,19 +14,19 @@
     </a>
     &nbsp;
     <a href="https://instagram.com/clyusz_">
-        <img src="https://www.pngkit.com/png/detail/140-1402893_logo-de-instagram-png-svg-fondo-transparente-instagram.png" width="20px" />
+        <img src="./assets/instagram.svg" width="20px" />
     </a>
     &nbsp;
-    <a href="https://discord.com/users/561170896480501790">
-        <img src="./assets/icons/other/discord-solid.svg/" width="20px" />
+    <a href="https://discord.com/users/731792306511806496">
+        <img src="./assets/discord.svg" width="20px" />
     </a>
     &nbsp;
     <a href="https://youtube.com/">
-        <img src="./assets/icons/other/youtube-solid.svg/" width="20px" />
+        <img src="./assets/youtube.svg" width="20px" />
     </a>
     &nbsp;
     <a href="https://twitter.com/">
-        <img src="./assets/icons/other/twitter-solid.svg/" width="20px" />
+        <img src="./assets/twitter.svg/" width="20px" />
     </a>
 
 
