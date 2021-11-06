@@ -13,8 +13,8 @@
         <img src="./assets/icons/other/github-solid.svg/" width="20px" />
     </a>
     &nbsp;
-    <a href="https://instagram.com/ofc_devin">
-        <img src="https://cdn1.iconfinder.com/data/icons/ios-11-glyphs/30/instagram-512.png" width="20px" />
+    <a href="https://instagram.com/clyusz_">
+        <img src="https://www.pngkit.com/png/detail/140-1402893_logo-de-instagram-png-svg-fondo-transparente-instagram.png" width="20px" />
     </a>
     &nbsp;
     <a href="https://discord.com/users/561170896480501790">
