@@ -4,7 +4,7 @@
 </div>
 
 <br>
-    <a href="https://discord.com/users/561170896480501790">
+    <a href="https://discord.com/users/731792306511806496">
         <img src="https://discord.c99.nl/widget/theme-3/561170896480501790.png" alt="Kiyo#4004:discord-profile"/>
     </a>
 </p>
