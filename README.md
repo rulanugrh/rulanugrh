@@ -9,8 +9,8 @@
 </div>
 
 <p align="center">
-    <a href="https://github.com/DevinOfficial/">
-        <img src="./assets/icons/other/github-solid.svg/" width="20px" />
+    <a href="https://github.com/Kyxzy/">
+        <img src="./assets/github.svg/" width="20px" />
     </a>
     &nbsp;
     <a href="https://instagram.com/clyusz_">
