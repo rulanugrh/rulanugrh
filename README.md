@@ -3,33 +3,10 @@
   <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04976f12-ed6b-40d8-bf9b-504906ca596e/ddpgoax-7f703d3b-c441-4597-837e-ac2802421d4c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA0OTc2ZjEyLWVkNmItNDBkOC1iZjliLTUwNDkwNmNhNTk2ZVwvZGRwZ29heC03ZjcwM2QzYi1jNDQxLTQ1OTctODM3ZS1hYzI4MDI0MjFkNGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qofJSDLtfWo73xnpTy9C5CIu543QM8xTgByL9sQrPo0'>
 </div>
 
-<br>
-    <a href="https://discord.com/users/731792306511806496">
-        <img src="https://discord.c99.nl/widget/theme-3/561170896480501790.png" alt="Kiyo#4004:discord-profile"/>
-    </a>
-</p>
-<p align="center">
-    <a href="https://github.com/Kyxzy/">
-        <img src="./assets/icons/other/github-solid.svg/" width="20px" />
-    </a>
-    &nbsp;
-    <a href="https://instagram.com/ofc_devin">
-        <img src="./assets/icons/other/instagram-solid.svg/" width="20px" />
-    </a>
-    &nbsp;
-    <a href="https://discord.com/users/561170896480501790">
-        <img src="./assets/icons/other/discord-solid.svg/" width="20px" />
-    </a>
-    &nbsp;
-    <a href="https://youtube.com/">
-        <img src="./assets/icons/other/youtube-solid.svg/" width="20px" />
-    </a>
-    &nbsp;
-    <a href="https://twitter.com/">
-        <img src="./assets/icons/other/twitter-solid.svg/" width="20px" />
-    </a>
-<br>
-<br>
+<div alifn='center'>
+   <img src='https://discord.c99.nl/widget/theme-3/731792306511806496.png'>
+</div>
+    
 
 ## Github Stats
 ![Kiyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyxzy&theme=tokyonight&show_icons=true)
