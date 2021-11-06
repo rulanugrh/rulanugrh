@@ -9,7 +9,7 @@
     </a>
 </p>
 <p align="center">
-    <a href="https://github.com/DevinOfficial/">
+    <a href="https://github.com/Kyxzy/">
         <img src="./assets/icons/other/github-solid.svg/" width="20px" />
     </a>
     &nbsp;
