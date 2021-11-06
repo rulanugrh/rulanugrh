@@ -7,24 +7,24 @@
 <div align='center'>
    <img src='https://discord.c99.nl/widget/theme-3/731792306511806496.png'>
 </div>
-
+&nbsp;
 <p align="center">
     <a href="https://github.com/Kyxzy/">
         <img src="./assets/github.svg/" width="20px" />
     </a>
-    &nbsp
+    &nbsp;
     <a href="https://instagram.com/clyusz_">
         <img src="./assets/instagram.svg" width="20px" />
     </a>
-    &nbsp
+    &nbsp;
     <a href="https://discord.com/users/731792306511806496">
         <img src="./assets/discord.svg" width="20px" />
     </a>
-    &nbsp
+    &nbsp;
     <a href="https://youtube.com/">
         <img src="./assets/youtube.svg" width="20px" />
     </a>
-    &nbsp
+    &nbsp;
     <a href="https://twitter.com/">
         <img src="./assets/twitter.svg/" width="20px" />
     </a>
@@ -39,7 +39,7 @@
       </a> 
   <br>
 </div>
-
+&nbsp;
 
 <div align='center'>
   <img src='https://github-readme-stats.vercel.app/api?username=Kyxzy&theme=tokyonight&show_icons=true'
