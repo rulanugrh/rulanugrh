@@ -51,7 +51,7 @@
 </div>
   &emsp;
  <div align'center'>
-   <img src='https://github-readme-stats.vercel.app/api/top-langs?username=Kyxzy&show_icons=true&locale=en&layout=compact&theme=tokyonight', width=100px>
+   <img src='https://github-readme-stats.vercel.app/api/top-langs?username=Kyxzy&show_icons=true&locale=en&layout=compact&theme=tokyonight', width=800px>
  </div>
    &emsp;
    
