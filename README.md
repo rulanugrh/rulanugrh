@@ -60,7 +60,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyxzy)
 
-<img src='https://data.whicdn.com/images/314617485/original.gif' width="300px" />
+<img src="https://camo.githubusercontent.com/c25e26cd73a44beb29f285b9f79823d1069f1b61feed3e3874d5981b2b2a6d39/68747470733a2f2f632e74656e6f722e636f6d2f56704a673855524c6f723841414141432f6e79616e2d6361742e676966" width="270px"/>
+
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
