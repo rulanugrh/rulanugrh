@@ -42,8 +42,8 @@
 &nbsp;
 
 
-##My Stats
-
+<h1 align="center">My Stats
+  
 <div align='center'>
   <img src='https://github-readme-stats.vercel.app/api?username=Kyxzy&theme=tokyonight&show_icons=true'
 </div>
