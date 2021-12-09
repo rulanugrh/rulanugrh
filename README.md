@@ -50,7 +50,14 @@
   <img src='https://github-readme-streak-stats.herokuapp.com/?user=Kyxzy&theme=tokyonight'
 </div>
   &emsp;
- 
+    
+<p  align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+  
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyxzy)
    
+
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
