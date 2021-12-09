@@ -57,7 +57,7 @@
 ## Favourite Code
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyxzy)
-<img src="https://data.whicdn.com/images/314617485/original.gif" width="270px"/>
+<img src="https://data.whicdn.com/images/314617485/original.gif" width="500px"/>
 
 
 <p  align="center">
