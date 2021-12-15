@@ -42,15 +42,29 @@
 
 
 ## My Stats
-  
-<div align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=Kyxzy&theme=tokyonight&show_icons=true' />
-</div>
 
-<div align='center'>
-  <img src='https://github-readme-streak-stats.herokuapp.com/?user=Kyxzy&theme=tokyonight' />
- </div>
-    
+
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Kyzxy&theme=tokyonight&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kyzxy&theme=tokyonight&hide_border=true" />
+
+
+  
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kyzxy&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
