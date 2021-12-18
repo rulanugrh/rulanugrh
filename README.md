@@ -31,8 +31,8 @@
 
 <div align='center'>
   <br>
-      <a href="https://github.com/Kyxzy/">
-          <img src="https://komarev.com/ghpvc/?username=Kyxzy&color=blueviolet" />
+      <a href="https://github.com/ItsArul/">
+          <img src="https://komarev.com/ghpvc/?username=ItsArul&color=blueviolet" />
       </a> 
   <br>
 </div>
