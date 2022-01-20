@@ -1,12 +1,8 @@
 <h1 align="center">Hey, I'm Kiyotaka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <div align='center'>
-  <img src=https://c.tenor.com/3Umw4_D5vpMAAAAC/aru-ai.gif>
+  <img src=https://i.pinimg.com/originals/2d/79/a2/2d79a22c6a7902c41866fe4badebe98e.gif>
 </div>
 
-&nbsp;
-<div align='center'>
-   <img src='https://i.pinimg.com/originals/2d/79/a2/2d79a22c6a7902c41866fe4badebe98e.gif'>
-</div>
 &nbsp;
 <p align="center">
     <a href="https://github.com/Kyxzy/">
