@@ -5,7 +5,7 @@
 
 &nbsp;
 <div align='center'>
-   <img src='https://discord.c99.nl/widget/theme-3/731792306511806496.png'>
+   <img src='https://i.pinimg.com/originals/2d/79/a2/2d79a22c6a7902c41866fe4badebe98e.gif'>
 </div>
 &nbsp;
 <p align="center">
