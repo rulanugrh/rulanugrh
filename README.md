@@ -1,4 +1,3 @@
-<h1 align="center">Hey, I'm Kiyotaka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <div align='center'>
   <img src=https://i.pinimg.com/originals/2d/79/a2/2d79a22c6a7902c41866fe4badebe98e.gif>
 </div>
@@ -8,7 +7,30 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 
-## My Stats
+# About Me
+```bash
+# is about me, nothing special :u
+
+isAboutMe(){
+    arrMe=("Kiyotaka" "DevOps")
+    echo "My Name is ${arrMe[0]}"
+    echo "Interesting about ${arrMe[1]}"
+
+    myHobby
+}
+myHobby(){
+    arrHob=("Volly Ball" "Shell Scripting")
+    echo "My Hobby is play ${arrHob[0]}"
+    echo "Still learning about ${arrHob[1]}"
+}
+
+isAboutMe
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+
+
+# My Stats
 
 
 <table border="0" align="center">
