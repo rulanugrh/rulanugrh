@@ -12,14 +12,14 @@
 # is about me, nothing special :u
 
 isAboutMe(){
-    arrMe=("Kiyotaka" "DevOps")
+    arrMe=("Kiyotaka" "Shell Scripting")
     echo "My Name is ${arrMe[0]}"
     echo "Interesting about ${arrMe[1]}"
 
     myHobby
 }
 myHobby(){
-    arrHob=("Volly Ball" "Shell Scripting")
+    arrHob=("Volly Ball" "DevOps")
     echo "My Hobby is play ${arrHob[0]}"
     echo "Still learning about ${arrHob[1]}"
 }
