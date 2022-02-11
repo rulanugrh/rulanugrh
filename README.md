@@ -8,23 +8,46 @@
 
 
 # About Me
-```bash
-# is about me, nothing special :u
+```go
+// is about me , nothing special
+package main
+import (
+  "fmt"
+  "strings"
+)
 
-isAboutMe(){
-    arrMe=("Kiyotaka" "Shell Scripting")
-    echo "My Name is ${arrMe[0]}"
-    echo "Interesting about ${arrMe[1]}"
-
-    myHobby
+type Data struct{
+  name string
+  hobby []string
 }
-myHobby(){
-    arrHob=("Volly Ball" "DevOps")
-    echo "My Hobby is play ${arrHob[0]}"
-    echo "Still learning about ${arrHob[1]}"
+type Result func(int)string
+
+func (dat Data) isMyProfile(){
+  fmt.Println("My Name is", dat.name)
+  fmt.Println("My hobby is", strings.Join(dat.hobby, " and "))
 }
 
-isAboutMe
+func isStart(num int, res Result){
+  result := res(num)
+  fmt.Println("And then,", result)
+}
+
+func isMyAge(num int)string{
+  if num > 17{
+    return "I'm a teenager"
+  }else{
+    return "I'm still underage"
+  }
+}
+
+func main(){
+  defer isStart(18, isMyAge)
+  profile := Data{
+    name: "Kiyotaka",
+    hobby: []string{"Coding", "Basket"},
+  }
+  profile.isMyProfile()
+}
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
