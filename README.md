@@ -9,7 +9,7 @@
 
 # About Me
 ```go
-// is about me , nothing special
+// is about me , nothing special :u
 package main
 import (
   "fmt"
