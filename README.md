@@ -41,7 +41,7 @@ func isMyAge(num int)string{
 }
 
 func main(){
-  defer isStart(18, isMyAge)
+  defer isStart(16, isMyAge)
   profile := Data{
     name: "Kiyotaka",
     hobby: []string{"Coding", "Basket"},
