@@ -9,44 +9,44 @@
 
 # About Me
 ```go
-// is about me , nothing special :u
+// is about me, nothing special :u
+
 package main
+
 import (
-  "fmt"
-  "strings"
+	"encoding/json"
+	"fmt"
 )
 
-type Data struct{
-  name string
-  hobby []string
-}
-type Result func(int)string
-
-func (dat Data) isMyProfile(){
-  fmt.Println("My Name is", dat.name)
-  fmt.Println("My hobby is", strings.Join(dat.hobby, " and "))
+type Profile struct {
+	Name string `json:"name"`
+	Age  int    `json:"age"`
 }
 
-func isStart(num int, res Result){
-  result := res(num)
-  fmt.Println("And then,", result)
-}
+func (prof Profile) MyProfile(number int, myage func(int) string) {
+	prof.Age = number
+	res, err := json.MarshalIndent(prof, "", " ")
+	if err != nil {
+		panic(err)
+	}
 
-func isMyAge(num int)string{
-  if num > 17{
-    return "I'm a teenager"
-  }else{
-    return "I'm still underage"
-  }
-}
+	fmt.Print(string(res) + "\n")
+	fmt.Println(myage(number))
 
-func main(){
-  defer isStart(16, isMyAge)
-  profile := Data{
-    name: "Kiyotaka",
-    hobby: []string{"Coding", "Basket"},
-  }
-  profile.isMyProfile()
+}
+func main() {
+
+	profile := Profile{
+		Name: "Kiyo",
+	}
+
+	profile.MyProfile(18, func(i int) string {
+		if i > 17 {
+			return "I'm Teenager"
+		} else {
+			return "I'm Children"
+		}
+	})
 }
 ```
 
