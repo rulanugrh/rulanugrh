@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chentaury v2.0</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.5/flowbite.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="./dist/styles.css">
+</head>
+<body>
+    <header class="bg-transparent absolute top-0 left-0 w-full flex items-center z-10" >
+        <div class="container bg-transparent">
+            <div class="flex items-center justify-between relative">
+                <div class="px-4">
+                    <a href="#home" class="font-bold xl:text-xl lg:text-xl text-lg text-secondary block py-6 ">Chentaury</a>
+                </div>
+                <div class="flex items-center px-4">
+                    <button id="hamburger" name="hamburger" type="button" class="block absolute right-4 lg:hidden">
+                        <span class="hamburger-line origin-top-left transition duration-300 ease-in-out dark:bg-putih"></span>
+                        <span class="hamburger-line transition duration-300 ease-in-out dark:bg-putih"></span>
+                        <span class="hamburger-line origin-bottom-left transition duration-300 ease-in-out dark:bg-putih"></span>
+                    </button>
+                    <nav id="nav-menu" class="hidden absolute bg-primary py-5 shadow-md rounded-lg max-w-[250px] w-full right-4 top-full lg:block lg:static lg:bg-transparent lg:max-w-full lg:shadow-none lg:rounded-none">
+                        <ul class="block lg:flex">
+                            <li class="group">
+                                <a href="#home" class="text-base text-white font-firaSans lg:text-xl xl:text-xl hover:font-bold py-2 mx-8 flex">Home</a>
+                            </li>
+                            <li class="group">
+                                <a href="#about" class="text-base text-white font-firaSans lg:text-xl xl:text-xl hover:font-bold py-2 mx-8 flex">About</a>
+                            </li>
+                            <li class="group">
+                                <a href="#skills" class="text-base text-white font-firaSans lg:text-xl xl:text-xl hover:font-bold py-2 mx-8 flex">Skills</a>
+                            </li>
+                            <li class="group">
+                                <a href="#project" class="text-base text-white font-firaSans lg:text-xl xl:text-xl hover:font-bold py-2 mx-8 flex">Project</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section id="home" class="pt-36 pb-32 bg-primary">
+        <div class="container pt-36 pb-32">
+            <div class="flex flex-wrap">
+                <div class="px-4 w-full lg:w-2/3 lg:ml-[500px] lg:mx-auto self-center">
+                    <h1 class="text-white font-firaCode font-semibold text-lg lg:text-[32px] lg:mb-8">Wello I'am</h1>
+                    <h1 class="text-white font-firaCode font-bold text-xl lg:text-[64px] xl:text-[64px] md:text-xl lg:mb-14">Ryan Pradana</h1>
+                    <div class="flex gap-2">
+                        <h1 class="text-secondary animate-pulse font-bold text-xl font-firaCode lg:text-[20px] xl:text-[20px]">> </h1>
+                        <h1 class="title animate-none font-firaCode text-secondary font-bold text-lg lg:text-[20px] xl:text-[20px] mb-5"></h1>
+                    </div>
+                    <div class="flex gap-4">
+                        <a href="https://github.com/rulanugrh" class="px-5 py-2 bg-secondary text-black font-bold lg:text-xl text-md rounded-xl font-firaCode">Github</a>
+                    <a href="#project" class="px-5 py-2 focus:ring-2 focus:ring-white outline-white ring-2 lg:text-xl ring-white text-white font-bold text-md rounded-xl font-firaCode">My Project</a>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="about" class="pt-36 pb-32 bg-white">
+        <div class="container">
+            <div class="w-full mb-5 lg:mb-8">
+                <h1 class="font-firaCode font-bold text-xl lg:text-3xl text-black text-center underline">About Me</h1>
+            </div>
+            <div class="flex flex-wrap">
+                <div class="px-4 w-full lg:w-1/2 self-center">
+                    <img src="./img/profile.png" alt="" class="w-[700px]">
+                </div>
+                <div class="px-4 w-full lg:w-1/2 self-end">
+                    <div class="lg:mb-[350px] xl:mb-[350px]">
+                        <h1 class="text-black font-bold text-xl lg:text-[32px] font-firaCode mb-5">Haii minasan konichiwa</h1>
+                        <p class="text-black font-light text-lg lg:text-[20px] font-firaCode mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita iure, impedit similique architecto enim ipsam asperiores vero nemo. Consequatur, illo.</p>
+                        <p class="text-black font-light text-lg lg:text-[20px] font-firaCode mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita iure, impedit similique architecto enim ipsam asperiores vero nemo. Consequatur, illo.</p>
+                        <div class="flex gap-3 lg:gap-5 xl:gap-5">
+                            <a href="" class="rounded-xl px-5 py-2 text-black ring-2 ring-black shadow-xl shadow-black bg-white font-bold font-firaCode text-base lg:text-2xl xl:text-2xl ">Cybersec</a>
+                            <a href="" class="rounded-xl px-5 py-2 text-black ring-2 ring-black shadow-xl shadow-black bg-white font-bold font-firaCode text-base lg:text-2xl xl:text-2xl ">DevOps</a>
+                            <a href="" class="rounded-xl px-5 py-2 text-black ring-2 ring-black shadow-xl shadow-black bg-white font-bold font-firaCode text-base lg:text-2xl xl:text-2xl ">WebDev</a>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+    <script src="./src/input.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.5/flowbite.min.js"></script>
+    <script>
+        var typed = new Typed(".title", {
+            strings: ["print('DevOps Enthusiast')", "Anime Lover", "Wev Developer"],
+            typeSpeed: 100,
+            backSpeed: 50,
+            loop: true
+        })
+    </script>
+</body>
+</html>
