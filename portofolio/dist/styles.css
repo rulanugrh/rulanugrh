@@ -914,10 +914,6 @@ input[type="range"]::-ms-fill-lower{
   margin-right: 2rem;
 }
 
-.mb-2{
-  margin-bottom: 0.5rem;
-}
-
 .mb-5{
   margin-bottom: 1.25rem;
 }
@@ -934,20 +930,12 @@ input[type="range"]::-ms-fill-lower{
   display: none;
 }
 
-.w-\[500px\]{
-  width: 500px;
+.w-\[700px\]{
+  width: 700px;
 }
 
 .w-full{
   width: 100%;
-}
-
-.w-\[600px\]{
-  width: 600px;
-}
-
-.w-\[700px\]{
-  width: 700px;
 }
 
 .max-w-\[250px\]{
@@ -992,12 +980,12 @@ input[type="range"]::-ms-fill-lower{
   gap: 0.5rem;
 }
 
-.gap-4{
-  gap: 1rem;
-}
-
 .gap-3{
   gap: 0.75rem;
+}
+
+.gap-4{
+  gap: 1rem;
 }
 
 .self-end{
@@ -1043,11 +1031,6 @@ input[type="range"]::-ms-fill-lower{
 .px-5{
   padding-left: 1.25rem;
   padding-right: 1.25rem;
-}
-
-.px-7{
-  padding-left: 1.75rem;
-  padding-right: 1.75rem;
 }
 
 .py-2{
@@ -1129,10 +1112,6 @@ input[type="range"]::-ms-fill-lower{
 
 .underline{
   text-decoration-line: underline;
-}
-
-.underline-offset-2{
-  text-underline-offset: 2px;
 }
 
 .shadow-md{
@@ -1218,7 +1197,23 @@ body {
   height: 2px;
   width: 30px;
   --tw-bg-opacity: 1;
-  background-color: rgb(0 0 0 / var(--tw-bg-opacity));
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+
+.hamburger-active > span:nth-child(1){
+  --tw-rotate: 45deg;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
+.hamburger-active > span:nth-child(2){
+  --tw-scale-x: 0;
+  --tw-scale-y: 0;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
+.hamburger-active > span:nth-child(3){
+  --tw-rotate: -45deg;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
 
 .hover\:font-bold:hover{
@@ -1261,36 +1256,12 @@ body {
     margin-bottom: 2rem;
   }
 
-  .lg\:ml-\[500px\]{
-    margin-left: 500px;
-  }
-
-  .lg\:mb-80{
-    margin-bottom: 20rem;
-  }
-
-  .lg\:mb-96{
-    margin-bottom: 24rem;
-  }
-
-  .lg\:mb-\[400px\]{
-    margin-bottom: 400px;
-  }
-
-  .lg\:mb-\[35px\]{
-    margin-bottom: 35px;
-  }
-
-  .lg\:mb-\[320px\]{
-    margin-bottom: 320px;
-  }
-
-  .lg\:mb-\[300px\]{
-    margin-bottom: 300px;
-  }
-
   .lg\:mb-\[350px\]{
     margin-bottom: 350px;
+  }
+
+  .lg\:ml-\[500px\]{
+    margin-left: 500px;
   }
 
   .lg\:block{
@@ -1334,6 +1305,11 @@ body {
     line-height: 2rem;
   }
 
+  .lg\:text-3xl{
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+  }
+
   .lg\:text-\[20px\]{
     font-size: 20px;
   }
@@ -1351,11 +1327,6 @@ body {
     line-height: 1.75rem;
   }
 
-  .lg\:text-3xl{
-    font-size: 1.875rem;
-    line-height: 2.25rem;
-  }
-
   .lg\:shadow-none{
     --tw-shadow: 0 0 #0000;
     --tw-shadow-colored: 0 0 #0000;
@@ -1364,36 +1335,17 @@ body {
 }
 
 @media (min-width: 1280px){
-  .xl\:mb-80{
-    margin-bottom: 20rem;
-  }
-
-  .xl\:mb-96{
-    margin-bottom: 24rem;
-  }
-
-  .xl\:mb-\[400px\]{
-    margin-bottom: 400px;
-  }
-
   .xl\:mb-\[350px\]{
     margin-bottom: 350px;
   }
 
-  .xl\:mb-\[320px\]{
-    margin-bottom: 320px;
-  }
-
-  .xl\:mb-\[3-0px\]{
-    margin-bottom: 3-0px;
-  }
-
-  .xl\:mb-\[300px\]{
-    margin-bottom: 300px;
-  }
-
   .xl\:gap-5{
     gap: 1.25rem;
+  }
+
+  .xl\:text-2xl{
+    font-size: 1.5rem;
+    line-height: 2rem;
   }
 
   .xl\:text-\[20px\]{
@@ -1407,10 +1359,5 @@ body {
   .xl\:text-xl{
     font-size: 1.25rem;
     line-height: 1.75rem;
-  }
-
-  .xl\:text-2xl{
-    font-size: 1.5rem;
-    line-height: 2rem;
   }
 }
