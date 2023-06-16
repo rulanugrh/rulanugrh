@@ -1602,12 +1602,21 @@ body {
     background-color: transparent;
   }
 
+  .lg\:px-16{
+    padding-left: 4rem;
+    padding-right: 4rem;
+  }
+
   .lg\:pt-16{
     padding-top: 4rem;
   }
 
   .lg\:pt-24{
     padding-top: 6rem;
+  }
+
+  .lg\:pt-14{
+    padding-top: 3.5rem;
   }
 
   .lg\:text-3xl{
@@ -1695,6 +1704,10 @@ body {
 
   .xl\:pt-24{
     padding-top: 6rem;
+  }
+
+  .xl\:pt-14{
+    padding-top: 3.5rem;
   }
 
   .xl\:text-3xl{
