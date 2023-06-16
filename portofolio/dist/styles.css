@@ -1619,6 +1619,10 @@ body {
     padding-top: 3.5rem;
   }
 
+  .lg\:pt-12{
+    padding-top: 3rem;
+  }
+
   .lg\:text-3xl{
     font-size: 1.875rem;
     line-height: 2.25rem;
@@ -1708,6 +1712,10 @@ body {
 
   .xl\:pt-14{
     padding-top: 3.5rem;
+  }
+
+  .xl\:pt-12{
+    padding-top: 3rem;
   }
 
   .xl\:text-3xl{
