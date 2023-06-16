@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chentaury v2.0</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.5/flowbite.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="../dist/styles.css">
+</head>
+<body>
+    <header class="bg-transparent absolute top-0 left-0 w-full flex items-center z-10" >
+        <div class="container bg-transparent">
+            <div class="flex items-center justify-between relative">
+                <div class="px-4">
+                    <a href="./about.html" class="font-bold xl:text-xl lg:text-xl text-lg text-primary block py-6 ">Chentaury</a>
+                </div>
+                <div class="flex items-center px-4">
+                    <button id="hamburger" name="hamburger" type="button" class="block absolute right-4 lg:hidden">
+                        <span class="hamburger-line origin-top-left transition duration-300 ease-in-out dark:bg-putih"></span>
+                        <span class="hamburger-line transition duration-300 ease-in-out dark:bg-putih"></span>
+                        <span class="hamburger-line origin-bottom-left transition duration-300 ease-in-out dark:bg-putih"></span>
+                    </button>
+                    <nav id="nav-menu" class="hidden absolute bg-white py-5 shadow-md rounded-lg max-w-[250px] w-full right-4 top-full lg:block lg:static lg:bg-transparent lg:max-w-full lg:shadow-none lg:rounded-none">
+                        <ul class="block lg:flex">
+                            <li class="group">
+                                <a href="../index.html" class="text-base text-primary font-firaSans lg:text-xl xl:text-xl hover:font-bold py-2 mx-8 flex">Home</a>
+                            </li>
+                            <li class="group">
+                                <a href="./about.html" class="text-base text-primary font-firaSans lg:text-xl xl:text-xl hover:font-bold py-2 mx-8 flex">About</a>
+                            </li>
+                            <li class="group">
+                                <a href="./skills.html" class="text-base text-primary font-firaSans lg:text-xl xl:text-xl hover:font-bold py-2 mx-8 flex">Skills</a>
+                            </li>
+                            <li class="group">
+                                <a href="./project.html" class="text-base text-primary font-firaSans lg:text-xl xl:text-xl hover:font-bold py-2 mx-8 flex">Project</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section id="about" class="pt-36 pb-32">
+        <div class="container lg:pt-16 xl:pt-16">
+            <div class="flex flex-wrap">
+                <div class="px-4 w-full mb-5">
+                    <nav class="flex px-5 py-3 text-gray-700 rounded-lg bg-white " aria-label="Breadcrumb">
+                        <ol class="inline-flex items-center space-x-1 md:space-x-3">
+                          <li class="inline-flex items-center">
+                            <a href="../index.html" class="inline-flex items-center text-lg font-firaCode font-semibold text-primary hover:text-secondary">
+                              <svg aria-hidden="true" class="w-6 h-6 mr-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M10.707 2.293a1 1 0 00-1.414 0l-7 7a1 1 0 001.414 1.414L4 10.414V17a1 1 0 001 1h2a1 1 0 001-1v-2a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 001 1h2a1 1 0 001-1v-6.586l.293.293a1 1 0 001.414-1.414l-7-7z"></path></svg>
+                              Home
+                            </a>
+                          </li>
+                          <li aria-current="page">
+                            <div class="flex items-center">
+                              <svg aria-hidden="true" class="w-6 h-6  text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path></svg>
+                              <span class="ml-1 text-lg font-semibold text-gray-400 md:ml-2">About</span>
+                            </div>
+                          </li>
+                        </ol>
+                    </nav>
+                </div>
+                <div class="px-4 w-full lg:w-1/2 self-center">
+                    <img src="https://i.pinimg.com/originals/d9/ab/80/d9ab80f638411facf70ab1ad542ff380.gif" alt="" class="rounded-xl shadow-lg shadow-black mb-5">
+                </div>
+                <div class="px-4 w-full lg:w-1/2">
+                    <h1 class="text-3xl font-extrabold text-black dark:text-white  font-firaSans md:text-5xl lg:text-6xl mb-2"><span class="text-transparent bg-clip-text bg-gradient-to-r to-secondary from-primary">Hewoo minasan</span> konichiwaaa</h1>
+                    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" class="mb-10"></p>
+                    <p class="text-lg font-normal text-gray-500 lg:text-[16px] font-firaCode mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam praesentium corporis nemo, cupiditate, ipsum veritatis doloribus quidem a earum commodi libero, perspiciatis odit? Odio maxime error animi a nulla vero!</p>
+                    <p class="text-lg font-normal text-gray-500 lg:text-[16px] font-firaCode mb-5 lg:mb-20">Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam praesentium corporis nemo, cupiditate, ipsum veritatis doloribus quidem a earum commodi libero, perspiciatis odit? Odio maxime error animi a nulla vero!</p>
+                    <div class="flex gap-2 lg:gap-5">
+                        <a href="" class="px-7 py-2 rounded-xl hover:ring-1 hover:bg-white hover:ring-black hover:text-primary bg-secondary text-white hover:shadow-lg hover:shadow-black font-semibold font-firaCode text-lg lg:text-xl xl:text-xl">Cyber Security</a>
+                        <a href="" class="px-7 py-2 rounded-xl hover:ring-1 hover:ring-black hover:bg-white hover:text-primary bg-secondary text-white hover:shadow-lg hover:shadow-black font-semibold font-firaCode text-lg lg:text-xl xl:text-xl">DevOps</a>
+                        <a href="" class="px-7 py-2 rounded-xl hover:ring-1 hover:ring-black hover:bg-white hover:text-primary bg-secondary text-white hover:shadow-lg hover:shadow-black font-semibold font-firaCode text-lg lg:text-xl xl:text-xl">Web Developer</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    
+
+    <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+    <script src="./input.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.5/flowbite.min.js"></script>
+</body>
+</html>
