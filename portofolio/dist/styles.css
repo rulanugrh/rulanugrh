@@ -1610,6 +1610,10 @@ body {
     padding-top: 8rem;
   }
 
+  .lg\:pt-24{
+    padding-top: 6rem;
+  }
+
   .lg\:text-3xl{
     font-size: 1.875rem;
     line-height: 2.25rem;
@@ -1635,6 +1639,14 @@ body {
   .lg\:text-xl{
     font-size: 1.25rem;
     line-height: 1.75rem;
+  }
+
+  .lg\:text-\[28px\]{
+    font-size: 28px;
+  }
+
+  .lg\:text-\[55px\]{
+    font-size: 55px;
   }
 
   .lg\:font-bold{
@@ -1697,6 +1709,10 @@ body {
     padding-top: 8rem;
   }
 
+  .xl\:pt-24{
+    padding-top: 6rem;
+  }
+
   .xl\:text-3xl{
     font-size: 1.875rem;
     line-height: 2.25rem;
@@ -1713,6 +1729,14 @@ body {
   .xl\:text-xl{
     font-size: 1.25rem;
     line-height: 1.75rem;
+  }
+
+  .xl\:text-\[28px\]{
+    font-size: 28px;
+  }
+
+  .xl\:text-\[55px\]{
+    font-size: 55px;
   }
 
   .xl\:font-bold{
