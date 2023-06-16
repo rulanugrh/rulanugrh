@@ -8,7 +8,7 @@ module.exports = {
     extend: {
       container: {
         center: true,
-        padding: '24px'
+        padding: '20px'
       },
       colors: {
         primary: '#0B2447',

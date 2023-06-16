@@ -847,8 +847,8 @@ input[type="range"]::-ms-fill-lower{
   width: 100%;
   margin-right: auto;
   margin-left: auto;
-  padding-right: 24px;
-  padding-left: 24px;
+  padding-right: 20px;
+  padding-left: 20px;
 }
 
 @media (min-width: 640px){
@@ -938,6 +938,10 @@ input[type="range"]::-ms-fill-lower{
   margin-bottom: 3rem;
 }
 
+.mb-16{
+  margin-bottom: 4rem;
+}
+
 .mb-2{
   margin-bottom: 0.5rem;
 }
@@ -952,6 +956,10 @@ input[type="range"]::-ms-fill-lower{
 
 .mb-7{
   margin-bottom: 1.75rem;
+}
+
+.mb-\[50px\]{
+  margin-bottom: 50px;
 }
 
 .ml-1{
@@ -1765,10 +1773,6 @@ body {
     background-color: transparent;
   }
 
-  .lg\:pt-12{
-    padding-top: 3rem;
-  }
-
   .lg\:pt-16{
     padding-top: 4rem;
   }
@@ -1860,10 +1864,6 @@ body {
 
   .xl\:overflow-hidden{
     overflow: hidden;
-  }
-
-  .xl\:pt-12{
-    padding-top: 3rem;
   }
 
   .xl\:pt-16{
