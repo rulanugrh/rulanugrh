@@ -847,8 +847,8 @@ input[type="range"]::-ms-fill-lower{
   width: 100%;
   margin-right: auto;
   margin-left: auto;
-  padding-right: 20px;
-  padding-left: 20px;
+  padding-right: 24px;
+  padding-left: 24px;
 }
 
 @media (min-width: 640px){
@@ -1606,10 +1606,6 @@ body {
     padding-top: 4rem;
   }
 
-  .lg\:pt-32{
-    padding-top: 8rem;
-  }
-
   .lg\:pt-24{
     padding-top: 6rem;
   }
@@ -1628,25 +1624,17 @@ body {
     font-size: 16px;
   }
 
-  .lg\:text-\[32px\]{
-    font-size: 32px;
-  }
-
-  .lg\:text-\[60px\]{
-    font-size: 60px;
-  }
-
-  .lg\:text-xl{
-    font-size: 1.25rem;
-    line-height: 1.75rem;
-  }
-
   .lg\:text-\[28px\]{
     font-size: 28px;
   }
 
   .lg\:text-\[55px\]{
     font-size: 55px;
+  }
+
+  .lg\:text-xl{
+    font-size: 1.25rem;
+    line-height: 1.75rem;
   }
 
   .lg\:font-bold{
@@ -1705,10 +1693,6 @@ body {
     padding-top: 4rem;
   }
 
-  .xl\:pt-32{
-    padding-top: 8rem;
-  }
-
   .xl\:pt-24{
     padding-top: 6rem;
   }
@@ -1718,25 +1702,17 @@ body {
     line-height: 2.25rem;
   }
 
-  .xl\:text-\[32px\]{
-    font-size: 32px;
-  }
-
-  .xl\:text-\[60px\]{
-    font-size: 60px;
-  }
-
-  .xl\:text-xl{
-    font-size: 1.25rem;
-    line-height: 1.75rem;
-  }
-
   .xl\:text-\[28px\]{
     font-size: 28px;
   }
 
   .xl\:text-\[55px\]{
     font-size: 55px;
+  }
+
+  .xl\:text-xl{
+    font-size: 1.25rem;
+    line-height: 1.75rem;
   }
 
   .xl\:font-bold{
