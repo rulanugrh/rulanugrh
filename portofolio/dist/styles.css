@@ -3994,6 +3994,10 @@ body {
     margin-bottom: 1.75rem;
   }
 
+  .xl\:mb-\[103px\]{
+    margin-bottom: 103px;
+  }
+
   .xl\:mb-\[6\.5rem\]{
     margin-bottom: 6.5rem;
   }
@@ -4008,18 +4012,6 @@ body {
 
   .xl\:mt-\[2px\]{
     margin-top: 2px;
-  }
-
-  .xl\:mb-24{
-    margin-bottom: 6rem;
-  }
-
-  .xl\:mb-\[100px\]{
-    margin-bottom: 100px;
-  }
-
-  .xl\:mb-\[103px\]{
-    margin-bottom: 103px;
   }
 
   .xl\:w-\[500px\]{
