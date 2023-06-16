@@ -869,15 +869,15 @@ input[type="range"]::-ms-fill-lower{
   }
 }
 
-@media (min-width: 1080px){
-  .container{
-    max-width: 1080px;
-  }
-}
-
 @media (min-width: 1280px){
   .container{
     max-width: 1280px;
+  }
+}
+
+@media (min-width: 1320px){
+  .container{
+    max-width: 1320px;
   }
 }
 
@@ -1787,12 +1787,22 @@ body {
     font-size: 16px;
   }
 
-  .lg\:text-\[28px\]{
-    font-size: 28px;
+  .lg\:text-\[20px\]{
+    font-size: 20px;
   }
 
-  .lg\:text-\[55px\]{
-    font-size: 55px;
+  .lg\:text-\[40px\]{
+    font-size: 40px;
+  }
+
+  .lg\:text-base{
+    font-size: 1rem;
+    line-height: 1.5rem;
+  }
+
+  .lg\:text-lg{
+    font-size: 1.125rem;
+    line-height: 1.75rem;
   }
 
   .lg\:text-xl{
@@ -1865,12 +1875,22 @@ body {
     line-height: 2.25rem;
   }
 
-  .xl\:text-\[28px\]{
-    font-size: 28px;
+  .xl\:text-\[20px\]{
+    font-size: 20px;
   }
 
-  .xl\:text-\[55px\]{
-    font-size: 55px;
+  .xl\:text-\[40px\]{
+    font-size: 40px;
+  }
+
+  .xl\:text-base{
+    font-size: 1rem;
+    line-height: 1.5rem;
+  }
+
+  .xl\:text-lg{
+    font-size: 1.125rem;
+    line-height: 1.75rem;
   }
 
   .xl\:text-xl{

@@ -26,7 +26,7 @@ module.exports = {
         firaCode: "'Fira Code', monospace"
       },
       screens: {
-        '2xl': '1080px'
+        '2xl': '1320px'
       }
     },
   },
