@@ -869,9 +869,15 @@ input[type="range"]::-ms-fill-lower{
   }
 }
 
-@media (min-width: 1280px){
+@media (min-width: 1366px){
   .container{
-    max-width: 1280px;
+    max-width: 1366px;
+  }
+}
+
+@media (min-width: 1536px){
+  .container{
+    max-width: 1536px;
   }
 }
 
@@ -1303,6 +1309,11 @@ input[type="range"]::-ms-fill-lower{
   --tw-ring-color: rgb(0 0 0 / var(--tw-ring-opacity));
 }
 
+.grayscale{
+  --tw-grayscale: grayscale(100%);
+  filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
+}
+
 .transition{
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
@@ -1396,7 +1407,7 @@ body {
   }
 }
 
-@media (min-width: 1280px){
+@media (min-width: 1366px){
   .xl\:invisible.tooltip > .tooltip-arrow:before{
     visibility: hidden;
   }
@@ -1475,6 +1486,11 @@ body {
 .hover\:ring-black:hover{
   --tw-ring-opacity: 1;
   --tw-ring-color: rgb(0 0 0 / var(--tw-ring-opacity));
+}
+
+.hover\:grayscale-0:hover{
+  --tw-grayscale: grayscale(0);
+  filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
 }
 
 :is(.dark .dark\:text-white){
@@ -1646,7 +1662,7 @@ body {
   }
 }
 
-@media (min-width: 1280px){
+@media (min-width: 1366px){
   .xl\:invisible{
     visibility: hidden;
   }
