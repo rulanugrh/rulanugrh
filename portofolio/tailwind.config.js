@@ -25,6 +25,9 @@ module.exports = {
         firaSans: "'Fira Sans', sans-serif",
         firaCode: "'Fira Code', monospace"
       },
+      screens: {
+        '2xl': '1080px'
+      }
     },
   },
   plugins: [
