@@ -869,15 +869,9 @@ input[type="range"]::-ms-fill-lower{
   }
 }
 
-@media (min-width: 1366px){
+@media (min-width: 1280px){
   .container{
-    max-width: 1366px;
-  }
-}
-
-@media (min-width: 1536px){
-  .container{
-    max-width: 1536px;
+    max-width: 1280px;
   }
 }
 
@@ -1407,7 +1401,7 @@ body {
   }
 }
 
-@media (min-width: 1366px){
+@media (min-width: 1280px){
   .xl\:invisible.tooltip > .tooltip-arrow:before{
     visibility: hidden;
   }
@@ -1662,7 +1656,7 @@ body {
   }
 }
 
-@media (min-width: 1366px){
+@media (min-width: 1280px){
   .xl\:invisible{
     visibility: hidden;
   }
