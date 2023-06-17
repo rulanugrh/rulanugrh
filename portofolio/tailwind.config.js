@@ -19,7 +19,8 @@ module.exports = {
         docker: '#2496ED',
         nest: '#E0234E',
         tailwind: '#06B6D4',
-        kube: '#326CE5'
+        kube: '#326CE5',
+        third: '#C2DEDC'
       },
       fontFamily: {
         firaSans: "'Fira Sans', sans-serif",
