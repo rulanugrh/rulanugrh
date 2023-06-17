@@ -2725,6 +2725,10 @@ input:checked + .toggle-bg{
   padding-bottom: 3.5rem;
 }
 
+.pb-28{
+  padding-bottom: 7rem;
+}
+
 .pb-32{
   padding-bottom: 8rem;
 }
@@ -2743,10 +2747,6 @@ input:checked + .toggle-bg{
 
 .pt-36{
   padding-top: 9rem;
-}
-
-.pb-28{
-  padding-bottom: 7rem;
 }
 
 .text-left{
