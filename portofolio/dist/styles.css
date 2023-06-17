@@ -2721,6 +2721,11 @@ input:checked + .toggle-bg{
   padding-bottom: 1.5rem;
 }
 
+.px-6{
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
 .pb-14{
   padding-bottom: 3.5rem;
 }
@@ -2747,6 +2752,18 @@ input:checked + .toggle-bg{
 
 .pt-36{
   padding-top: 9rem;
+}
+
+.pt-32{
+  padding-top: 8rem;
+}
+
+.pt-28{
+  padding-top: 7rem;
+}
+
+.pb-20{
+  padding-bottom: 5rem;
 }
 
 .text-left{
@@ -3917,6 +3934,10 @@ body {
     padding-top: 4rem;
   }
 
+  .lg\:pt-20{
+    padding-top: 5rem;
+  }
+
   .lg\:text-3xl{
     font-size: 1.875rem;
     line-height: 2.25rem;
@@ -4020,6 +4041,10 @@ body {
 
   .xl\:w-\[500px\]{
     width: 500px;
+  }
+
+  .xl\:w-\[400px\]{
+    width: 400px;
   }
 
   .xl\:grid-cols-4{
