@@ -1030,6 +1030,10 @@ input[type="range"]::-ms-fill-lower{
   width: 100%;
 }
 
+.w-\[500px\]{
+  width: 500px;
+}
+
 .max-w-\[250px\]{
   max-width: 250px;
 }
@@ -1303,6 +1307,10 @@ input[type="range"]::-ms-fill-lower{
   line-height: 1.75rem;
 }
 
+.text-\[40px\]{
+  font-size: 40px;
+}
+
 .font-bold{
   font-weight: 700;
 }
@@ -1408,6 +1416,11 @@ input[type="range"]::-ms-fill-lower{
 
 .shadow-black{
   --tw-shadow-color: #000000;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-gray-200{
+  --tw-shadow-color: #E5E7EB;
   --tw-shadow: var(--tw-shadow-colored);
 }
 
