@@ -6,6 +6,7 @@
     <title>Chentaury v2.0</title>
     <link rel="icon" href="./img/icon.png">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.5/flowbite.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"/>
     <link rel="stylesheet" href="./dist/styles.css">
 </head>
 <body class="lg:overflow-hidden xl:overflow-hidden md:overflow-hidden">
@@ -42,7 +43,7 @@
         </div>
     </header>
 
-    <section id="home" class="pt-36 pb-32">
+    <section id="home" class="pt-36 pb-28">
         <div class="container lg:pt-12 xl:pt-20">
             <div class="flex flex-wrap">
                 <div class="px-4 w-full lg:w-1/2 self-center mb-10 lg:mb-0 xl:mb-0">
@@ -73,7 +74,7 @@
         </div>
     </section>
 
-    <section id="about" class="pt-20 pb-32 visible lg:invisible xl:invisible md:invisible">
+    <section id="about" class="pt-20 pb-28 visible lg:invisible xl:invisible md:invisible">
         <div class="container lg:pt-16 xl:pt-16">
             <div align="center">
                 <h1 class="text-center text-xl font-firaCode font-bold mb-2 ">About Me</h1>
@@ -97,7 +98,7 @@
         </div>
     </section>
 
-    <section id="skills" class="pt-20 pb-32 visible lg:invisible xl:invisible md:invisible">
+    <section id="skills" class="pt-20 pb-28 visible lg:invisible xl:invisible md:invisible">
         <div class="container lg:pt-16">
             <div align="center">
                 <h1 class="text-center text-xl font-firaCode font-bold mb-2 ">My Skills</h1>
@@ -140,7 +141,7 @@
             <div align="center">
                 <h1 class="text-center text-xl font-firaCode font-bold mb-2 ">My Project</h1>
             </div>
-            <div class="w-full px-4 grid grid-cols-1 lg:grid-cols-4 xl:grid-cols-4 gap-7">
+            <div class="w-full px-4 grid grid-cols-1 gap-7">
                 <div class="max-w-md bg-white border border-gray-200 rounded-lg hover:shadow-lg hover:shadow-gray-200">
                     <a href="#">
                         <img class="rounded-t-lg grayscale hover:grayscale-0" src="./img/project1.png" alt=""/>
@@ -252,13 +253,69 @@
                             </div>
                         </div>
                     </div>
-                </div>               
+                </div> 
+                <div class="max-w-md bg-white border border-gray-200 rounded-lg hover:shadow-lg hover:shadow-gray-200">
+                    <a href="#">
+                        <img class="rounded-t-lg grayscale hover:grayscale-0" src="./img/project5.jpg" alt=""/>
+                    </a>
+                    <div class="p-5">
+                        <a href="#">
+                            <h5 class="mb-2 text-xl font-bold tracking-tight text-primary font-firaCode">CTF Challenge</h5>
+                        </a>
+                        <p class="xl:mb-14 mb-7 font-normal font-firaCode text-gray-700">Make some questions related to CTF such as cryptography, binary exploitation, forensic, and so on</p>
+                        <button data-modal-target="defaultModal5" data-modal-toggle="defaultModal5" class="block text-white bg-blue-700 hover:bg-blue-800 font-firaCode focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800" type="button">
+                            view-project
+                        </button>
+                        <div id="defaultModal5" tabindex="-1" aria-hidden="true" class="fixed top-0 left-0 right-0 z-50 hidden w-full p-4 overflow-x-hidden overflow-y-auto md:inset-0 h-[calc(100%-1rem)] max-h-full">
+                            <div class="max-w-[300px] bg-white border border-gray-200 rounded-lg">
+                                <img src="./img/project5.jpg" alt="" class="rounded-t-lg">
+                                <div class="p-5">
+                                    <h5 class="mb-2 text-xl font-bold tracking-tight text-primary font-firaCode">CTF Challenge</h5>
+                                    <p class="mb-7 font-normal font-firaCode text-gray-700">Make some questions related to CTF such as cryptography, binary exploitation, forensic, and so on</p>
+                                    <div class="grid grid-cols-3">
+                                        <a href="https://github.com/rulanugrh/soal-ctf" class="text-base font-bold font-firaCode text-primary">View Project</a>
+                                        <h1 class="font-firaCode text-base font-normal text-gray-700">Tech Stack: Python</h1>
+                                        <h1 class="font-firaCode font-normal text-base text-gray-700">Visibility: Public</h1>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="max-w-md bg-white border border-gray-200 rounded-lg hover:shadow-lg hover:shadow-gray-200">
+                    <a href="#">
+                        <img class="rounded-t-lg grayscale hover:grayscale-0" src="./img/project6.png" alt=""/>
+                    </a>
+                    <div class="p-5">
+                        <a href="#">
+                            <h5 class="mb-2 text-xl font-bold tracking-tight text-primary font-firaCode">Aiden</h5>
+                        </a>
+                        <p class="xl:mb-[103px] mb-7 font-normal font-firaCode text-gray-700">As a contributor to create automation installations using shell scripting</p>
+                        <button data-modal-target="defaultModal6" data-modal-toggle="defaultModal6" class="block text-white bg-blue-700 hover:bg-blue-800 font-firaCode focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800" type="button">
+                            view-project
+                        </button>
+                        <div id="defaultModal6" tabindex="-1" aria-hidden="true" class="fixed top-0 left-0 right-0 z-50 hidden w-full p-4 overflow-x-hidden overflow-y-auto md:inset-0 h-[calc(100%-1rem)] max-h-full">
+                            <div class="max-w-[300px] bg-white border border-gray-200 rounded-lg">
+                                <img src="./img/project6.png" alt="" class="rounded-t-lg">
+                                <div class="p-5">
+                                    <h5 class="mb-2 text-2xl font-bold tracking-tight text-primary font-firaCode">Aiden</h5>
+                                    <p class="mb-7 font-normal font-firaCode text-gray-700">As a contributor to create automation installations using shell scripting                                    </p>
+                                    <div class="grid grid-cols-3">
+                                        <a href="https://github.com/slowy07/aiden" class="text-base font-bold font-firaCode text-primary">View Project</a>
+                                        <h1 class="font-firaCode text-base font-normal text-gray-700">Tech Stack: Bash</h1>
+                                        <h1 class="font-firaCode font-normal text-base text-gray-700">Visibility: Public</h1>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>       
             </div>
         </div>
     </section>
 
 
-    <footer id="footeer" class="pt-16 pb-14 bg-primary visible lg:invisible xl:invisible">
+    <footer id="footer" class="pt-16 pb-14 bg-primary visible lg:invisible xl:invisible">
         <div class="container">
             <div class="flex flex-wrap">
                 <div class="px-4 grid grid-cols-1 lg:grid-cols-3 w-full gap-7">
@@ -291,6 +348,7 @@
     </footer>
     
 
+    <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
     <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
     <script src="./src/input.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.5/flowbite.min.js"></script>
