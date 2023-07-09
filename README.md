@@ -1,19 +1,4 @@
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<a href="https://www.instagram.com/">
-  <img align="left" alt="siaraaviophile Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
-</a>
-<a href="https://twitter.com/">
-  <img align="left" alt="siaraaviophile's Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/">
-  <img align="left" alt="siaraaviophile's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=haikalmol&color=blue&style=flat-square" align="left" />
-
-<br />
-<br />
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">>
 
 Hi, I'm Arul, Junior DevOps Engineer. Learn very much
 of devops, security, and programming language and 
