@@ -37,7 +37,7 @@ Time is relative, and now time to start revolution.
 
 
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/211/211931.gif">
+  <img src="[https://giffiles.alphacoders.com/211/211931.gif](https://media.discordapp.net/attachments/1125700600387084318/1147585522127081652/rulxrstech_1.gif?width=1087&height=611)">
 </div>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
