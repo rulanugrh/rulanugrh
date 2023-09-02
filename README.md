@@ -6,8 +6,6 @@ curious about new stack of programming.
 Experience in freelance and volunteer organization.
 Responsible, wondering, and hard working.
 
-  <img align="right" style="margin-left: 10px" alt="GIF" src="https://wallpapercave.com/wp/wp6227423.gif" width="450" height="300" />
-
 
 - 💬 Ask me about anything, Let we discuss together!
 - 📫 Reach me at <i>my github</i>
