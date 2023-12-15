@@ -27,11 +27,11 @@ Responsible, wondering, and hard working.
 <!--START_SECTION:waka-->
 
 ```txt
-Go           54 mins         ████████████████████░░░░░   80.18 %
-Markdown     12 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.75 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Go           4 hrs 11 mins   ███████████████████████▒░   92.83 %
+Markdown     12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+Bash         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
