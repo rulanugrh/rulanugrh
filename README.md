@@ -27,11 +27,11 @@ Responsible, wondering, and hard working.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2022 - To: 13 December 2023
-
-Total Time: 0 secs
-
-No activity tracked
+Go           54 mins         ████████████████████░░░░░   80.18 %
+Markdown     12 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.75 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
