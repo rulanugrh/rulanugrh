@@ -27,11 +27,11 @@ Responsible, wondering, and hard working.
 <!--START_SECTION:waka-->
 
 ```txt
-Go                         46 hrs 45 mins  >>>>>>>>>>>>>>>>>========   68.58 %
-Markdown                   4 hrs 43 mins   >>=======================   06.94 %
-PHP                        2 hrs 59 mins   >========================   04.38 %
-HTML                       2 hrs 54 mins   >========================   04.28 %
-Blade Template             2 hrs 29 mins   >========================   03.67 %
+Go                         46 hrs 45 mins  >>>>>>>>>>>>>>>>>========   67.75 %
+Markdown                   4 hrs 58 mins   >>=======================   07.21 %
+PHP                        2 hrs 59 mins   >========================   04.32 %
+HTML                       2 hrs 54 mins   >========================   04.23 %
+Blade Template             2 hrs 29 mins   >========================   03.62 %
 ```
 
 <!--END_SECTION:waka-->
