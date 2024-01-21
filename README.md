@@ -9,11 +9,11 @@ Hi, I'm Arul, Junior DevOps Engineer and Cyber Security Enthusiast. Learn very m
 <!--START_SECTION:waka-->
 
 ```txt
-Go                         51 hrs 34 mins  >>>>>>>>>>>>>>>>>========   69.07 %
-Markdown                   5 hrs 19 mins   >>=======================   07.12 %
-PHP                        2 hrs 59 mins   >========================   04.00 %
-HTML                       2 hrs 54 mins   >========================   03.91 %
-Blade Template             2 hrs 29 mins   >========================   03.35 %
+Go                         52 hrs 28 mins  >>>>>>>>>>>>>>>>>========   69.44 %
+Markdown                   5 hrs 19 mins   >>=======================   07.04 %
+PHP                        2 hrs 59 mins   >========================   03.95 %
+HTML                       2 hrs 54 mins   >========================   03.86 %
+Blade Template             2 hrs 29 mins   >========================   03.31 %
 ```
 
 <!--END_SECTION:waka-->
