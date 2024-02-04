@@ -9,11 +9,11 @@ Hi, I'm Arul, Junior DevOps Engineer and Cyber Security Enthusiast. Learn very m
 <!--START_SECTION:waka-->
 
 ```txt
-Go                         68 hrs 45 mins  >>>>>>>>>>>>>>>==========   58.51 %
-Markdown                   14 hrs 22 mins  >>>======================   12.23 %
-Bash                       4 hrs 30 mins   >========================   03.84 %
-Python                     3 hrs 33 mins   >========================   03.03 %
-Other                      2 hrs 56 mins   >========================   02.51 %
+Go                         70 hrs 21 mins  >>>>>>>>>>>>>>===========   57.46 %
+Markdown                   15 hrs 24 mins  >>>======================   12.59 %
+Bash                       5 hrs 17 mins   >========================   04.32 %
+Python                     4 hrs 17 mins   >========================   03.50 %
+Other                      3 hrs 1 min     >========================   02.47 %
 ```
 
 <!--END_SECTION:waka-->
