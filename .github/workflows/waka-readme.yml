@@ -15,4 +15,4 @@ jobs:
           TIME_RANGE: all_time
           BLOCKS: =>
           IGNORED_LANGUAGES: HTML YAML PHP
-          LANG_COUNT: 7
+          LANG_COUNT: 4
