@@ -9,7 +9,7 @@ Hi, I'm Arul, DevSecOps Enthusiast and Beginner Developer. Learn very much of de
 ```txt
 Go                         176 hrs 20 mins >>>>>>>>>>>>=============   47.91 %
 TypeScript                 32 hrs 35 mins  >>=======================   08.85 %
-Python                     29 hrs 8 mins   >>=======================   07.92 %
+Python                     29 hrs 9 mins   >>=======================   07.92 %
 Markdown                   20 hrs 45 mins  >========================   05.64 %
 ```
 
