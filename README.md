@@ -7,10 +7,10 @@ Hi, I'm Arul, DevSecOps Enthusiast and Beginner Developer. Learn very much of de
 <!--START_SECTION:waka-->
 
 ```txt
-Go                         176 hrs 35 mins >>>>>>>>>>>==============   44.03 %
-TypeScript                 45 hrs 59 mins  >>>======================   11.47 %
-Python                     38 hrs 29 mins  >>=======================   09.60 %
-Markdown                   22 hrs 3 mins   >========================   05.50 %
+Go                         176 hrs 35 mins >>>>>>>>>>>==============   43.45 %
+TypeScript                 46 hrs 16 mins  >>>======================   11.39 %
+Python                     40 hrs 36 mins  >>=======================   09.99 %
+Markdown                   22 hrs 3 mins   >========================   05.43 %
 ```
 
 <!--END_SECTION:waka-->
