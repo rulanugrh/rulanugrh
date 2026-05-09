@@ -7,10 +7,10 @@ Hi, I'm Pradana, DevSecOps Enthusiast and Backend Developer. Learn very much of 
 <!--START_SECTION:waka-->
 
 ```txt
-Go                         272 hrs 46 mins       >>>>>>===================   22.37 %
-TypeScript                 236 hrs 48 mins       >>>>>====================   19.42 %
-Python                     131 hrs 17 mins       >>>======================   10.77 %
-Dart                       87 hrs 53 mins        >>=======================   07.21 %
+Go                         272 hrs 46 mins       >>>>>>===================   22.30 %
+TypeScript                 239 hrs 42 mins       >>>>>====================   19.60 %
+Python                     131 hrs 17 mins       >>>======================   10.73 %
+Dart                       87 hrs 53 mins        >>=======================   07.19 %
 ```
 
 <!--END_SECTION:waka-->
