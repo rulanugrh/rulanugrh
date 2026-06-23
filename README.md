@@ -8,8 +8,8 @@ Hi, I'm Pradana, DevSecOps Enthusiast and Backend Developer. Learn very much of 
 
 ```txt
 Go                         273 hrs 58 mins       >>>>>====================   21.77 %
-TypeScript                 252 hrs 39 mins       >>>>>====================   20.08 %
-Python                     135 hrs 43 mins       >>>======================   10.79 %
+TypeScript                 252 hrs 39 mins       >>>>>====================   20.07 %
+Python                     135 hrs 43 mins       >>>======================   10.78 %
 Dart                       87 hrs 53 mins        >>=======================   06.98 %
 ```
 
